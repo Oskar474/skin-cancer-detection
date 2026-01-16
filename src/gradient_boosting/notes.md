@@ -4,7 +4,6 @@
     * how to use optuna for lightgbm param tuning
 * use optuna for lightgbm param tuning
 * understand features
-* custom metric, maybe it could be better than auc
 
 ### Important questions
 * how stratified group k fold works?
