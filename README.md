@@ -403,7 +403,7 @@ Failed architectures:
 
 ## Model 4
 
-![threshold_model4.png](images%2Fnn_readme%2Fthreshold_model4.png)
+![threshold_model4.jpg](images%2Fnn_readme%2Fthreshold_model4.jpg)
 
 Threshold: 0.650
 
@@ -416,7 +416,7 @@ Test Partial AUC: 0.1022
 ![Model4_cm.jpg](images%2Fnn_readme%2FModel4_cm.jpg)
 
 ## EfficientNetB3
-![thresholds_efficient.png](images%2Fnn_readme%2Fthresholds_efficient.png)
+![thresholds_efficient.jpg](images%2Fnn_readme%2Fthresholds_efficient.jpg)
 
 
 Threshold: 0.825
